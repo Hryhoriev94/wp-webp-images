@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Plugin Name: WP Webp Images
  * Plugin URI: https://hryhoriev.website/wordpress/plugins/wp-webp-images
@@ -7,3 +8,7 @@
  * Author: Yurii Hryhoriev
  * Author URI: https://hryhoriev.website
  */
+
+require_once('includes.php');
+
+
